@@ -1,6 +1,6 @@
 # Buck-Boost-Converter
 
-# ⚡ 150W Buck-Boost Converter | 100V → 50V/230V | 20 kHz PWM  
+# ⚡ 150W Buck-Boost Converter | 100V → 50V/230V | 20 kHz Switching Frequency  
 
 > A high-efficiency, dual-mode buck-boost DC-DC converter supporting both **step-up (Boost)** and **step-down (Buck)** operations. Designed, simulated, and implemented for UPS and renewable energy systems.
 
